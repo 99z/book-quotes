@@ -1,0 +1,1 @@
+>The first thing to understand is that mathematics is an art. The difference between math and the other arts, such as music and painting, is that our culture does not recognize it as such.

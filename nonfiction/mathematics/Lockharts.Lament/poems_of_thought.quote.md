@@ -1,0 +1,1 @@
+>How did I know to draw that line? How does a painter know where to put his brush? Inspiration, experience, trial and error, dumb luck. That's the art of it, creating these beautiful little poems of thought, these sonnets of pure reason. There is something so wonderfully transformational about this art form.

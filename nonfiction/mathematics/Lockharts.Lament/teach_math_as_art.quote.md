@@ -1,0 +1,1 @@
+>Mathematics should be taught as art for art's sake.

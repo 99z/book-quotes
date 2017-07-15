@@ -1,0 +1,1 @@
+>By concentrating on what, and leaving out why, mathematics is reduced to an empty shell. The art is not in the 'truth' but in the explanation, the argument. It is the argument itself which gives the truth its context, and determines what is really being said and meant. Mathematics is the art of explanation.
