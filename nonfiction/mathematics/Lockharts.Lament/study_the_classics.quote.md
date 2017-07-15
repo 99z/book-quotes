@@ -1,0 +1,1 @@
+>What other subject is routinely taught without any mention of its history, philosophy, thematic development, aesthetic criteria, and current status? What other subject shuns its primary sources - beautiful works of art by some of the most creative minds in history - in favor of third-rate textbook bastardizations?

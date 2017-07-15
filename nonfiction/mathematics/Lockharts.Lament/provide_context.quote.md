@@ -1,0 +1,1 @@
+>English teachers know that spelling and pronunciation are best learned in a context of reading and writing. History teachers know that names and dates are uninteresting when removed from the unfolding backstory of events. Why does mathematics education remain stuck in the nineteenth century?

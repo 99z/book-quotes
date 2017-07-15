@@ -1,0 +1,1 @@
+>High school students must learn to use the secant function, `sec x`, as an abbreviation for the reciprocal of the cosine function, `1 / cos x,` (a defintion with as much intellectual weight as the decision to use '&' in place of 'and'.)

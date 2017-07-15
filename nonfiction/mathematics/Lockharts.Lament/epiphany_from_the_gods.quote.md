@@ -1,0 +1,1 @@
+>A proof should be an epiphany from the Gods, not a coded message from the Pentagon.

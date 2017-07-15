@@ -1,0 +1,1 @@
+>Why is it that we accept math teachers who have never produced an original piece of mathematics, know nothing of the history and philosophy of the subject, nothing about recent developments, nothing in fact beyond what they are expected to present to their unfortunate students?

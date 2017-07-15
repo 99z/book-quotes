@@ -1,0 +1,1 @@
+>Students are making statements to fit a preexisting proof-pattern, not because they _mean_ them. They are being trained to ape arguments, not to _intend_ them. So not only do they have no idea what their teacher is saying, _they have no idea what they themselves are saying_.

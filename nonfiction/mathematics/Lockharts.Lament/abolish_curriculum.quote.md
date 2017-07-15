@@ -1,0 +1,1 @@
+>With a set curriculum to follow, a teacher cannot lead. There should be no standards, and no curriculum. Just individuals doing what they think best for their students.
