@@ -11,8 +11,10 @@ The general structure is as follows:
 
 `classification/genre or topic/title/(chapter)/.quote files`
 
+I add the `.md` suffix to all `.quote` files to make them nicer to read on github.
+
 The title of a `.quote` file is what the quote is about to me. Since I haven't been keeping track of page numbers up until now many quotes won't have them, but going forward I'll add page number as a prefix like so: `241_duality.quote`.
 
-For books that have chapters that I read from now on I will include chapter subdirectories. Unfortunately, like page numbers, I haven't been keeping track of chapters until now.
+I intend to include chapters subdirectories from now on. Unfortunately, like page numbers, I haven't been keeping track of chapters, so some books will be missing them.
 
-Any notes I have will appear in the `.quote` file below the quote itself, on a new line.
+Any notes I have appear in the `.quote` file below the quote itself, on a new line.
