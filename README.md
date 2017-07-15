@@ -11,6 +11,8 @@ The general structure is as follows:
 
 `classification/genre or topic/title/(chapter)/.quote files`
 
+The first and sometimes only file in a book's directory is the `_info` file. These files include book title, author(s), and ISBN number.
+
 I add the `.md` suffix to all `.quote` files to make them nicer to read on github.
 
 The title of a `.quote` file is what the quote is about to me. Since I haven't been keeping track of page numbers up until now many quotes won't have them, but going forward I'll add page number as a prefix like so: `241_duality.quote`.
