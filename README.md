@@ -13,4 +13,4 @@ The general structure is as follows:
 
 The title of a `.quote` file is what the quote is about to me. Since I haven't been keeping track of page numbers up until now many quotes won't have them, but going forward I'll add page number as a prefix like so: `241_duality.quote`.
 
-Any notes I have will appear in the `.quote` file below the quote itself, outside of quotation marks.
+Any notes I have will appear in the `.quote` file below the quote itself, on a new line.
