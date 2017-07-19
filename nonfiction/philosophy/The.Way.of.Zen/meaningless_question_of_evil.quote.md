@@ -1,0 +1,1 @@
+>For anyone who holds that 'God made the world,' the question, why did He permit the existence in it of any evil, or of that Evil One in whom all evil is personified, is altogether meaningless; one might enquire why He did not make a world without dimensions or one without temporal succession.

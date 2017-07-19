@@ -1,0 +1,1 @@
+>When we need to see the details of a distant object, such as a clock, the eyes must be relaxed, not staring, not trying to see. So, too, no amount of working with the muscles of the mouth and tongue will enable us to taste our food more acutely. The eyes and the tongue must be trusted to work by themselves.

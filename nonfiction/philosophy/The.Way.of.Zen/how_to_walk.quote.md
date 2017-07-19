@@ -1,0 +1,1 @@
+>If the ordinary man is one who has to walk by lifting his legs with his hands, the Taoist is one who has learned to let the legs walk by themselves.

@@ -1,0 +1,1 @@
+>It is fundamental to both Taoist and Confucian thought that the natural man is to be trusted, and from their standpoint it appears that the Western mistrust of human nature - whether theological or technological - is a kind of schizophrenia.

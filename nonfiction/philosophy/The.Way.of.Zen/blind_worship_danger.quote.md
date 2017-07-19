@@ -1,0 +1,1 @@
+>Reasonable - that is, human - men will always be capable of compromise, but men who have dehumanized themselves by becoming the blind worshippers of an idea or an ideal are fanatics whose devotion to abstractions makes them the enemies of life.
