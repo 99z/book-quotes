@@ -1,0 +1,1 @@
+>[The use of names and terms] is - up to a point - so satisfactory that man is always in danger of confusing his measures with the world so measured, of identifying money with wealth, fixed convention with fluid reality.

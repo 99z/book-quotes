@@ -1,0 +1,1 @@
+>As the blade of a sword cannot cut itself, as finger-tip cannot touch itself, so a thought cannot see itself.

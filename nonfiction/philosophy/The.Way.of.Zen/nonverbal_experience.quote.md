@@ -1,0 +1,1 @@
+>When we say just 'That' or 'Thus,' we are pointing to the realm of nonverbal experience, to reality as we perceive it directly, for we are trying to indicate what we see or feel rather than what we think or say.

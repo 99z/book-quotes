@@ -1,0 +1,1 @@
+>In former times, men's minds were sharp. Upon hearing a single sentence, they abandoned study and so came to be called 'the sages who, abandoning learning, rest in spontaneity.' In these days, people only seek to stuff themselves with knowledge and deductions, placing great reliance on written explanations and calling all this the practice.

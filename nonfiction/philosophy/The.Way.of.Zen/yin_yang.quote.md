@@ -1,0 +1,1 @@
+>Nothing in this universe can stand by itself - no thing, no fact, no being, no event - and for this reason it is absurd to single anything out as the ideal to be grasped. For what is singled out exists only in relation to its own opposite, since what is is defined by what is not, pleasure is defined by pain, life is defined by death, and motion is defined by stillness.

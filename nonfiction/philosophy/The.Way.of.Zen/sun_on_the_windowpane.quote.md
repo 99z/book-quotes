@@ -1,0 +1,1 @@
+>[Indian philosophy] proposes no idea, no description, of what is to fill the mind's void because the idea would exclude the fact - somewhat as a picture of the sun on the windowpane would shut out the sun's true light.

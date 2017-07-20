@@ -1,0 +1,1 @@
+>The anxiety-laden problem of what will happen to me when I die is, after all, like asking what happens to my fist when I open my hand, or where my lap goes when I stand up.

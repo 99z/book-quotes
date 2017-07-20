@@ -1,0 +1,1 @@
+>It is the essential tradition of Zen that what cannot be conveyed by speech can nevertheless be passed on by 'direct pointing,' by some nonverbal means of communication without which the Buddhist experience could never have been handed down to future generations.

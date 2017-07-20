@@ -1,0 +1,1 @@
+>Dogen pointed out that firewood does not become ashes and life does not become death, just as winter does not become the spring. Every moment of time is 'self-contained and quiescent.'

@@ -1,0 +1,1 @@
+>If nirvana is actually here and now so that to seek it is to lose it, a realization through progressive stages is hardly appropriate. One would have to see into it in the present moment, directly.
