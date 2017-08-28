@@ -60,10 +60,10 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 
 ### RFCs
 
-* ![RFC 707](https://tools.ietf.org/html/rfc707): A High-Level Framework for Network-Based Resource Sharing
-* ![RFC 2616](https://tools.ietf.org/html/rfc2616): Hypertext Transfer Protocol -- HTTP/1.1
+* [RFC 707](https://tools.ietf.org/html/rfc707): A High-Level Framework for Network-Based Resource Sharing
+* [RFC 2616](https://tools.ietf.org/html/rfc2616): Hypertext Transfer Protocol -- HTTP/1.1
 
 ### Papers
 
-* ![The Five Orders of Ignorance](http://www.la-acm.org/Archives/laacm0512-Article%2002%20The%205%20Orders%20of%20Ignorance%20OCT%202000.pdf)
+* [The Five Orders of Ignorance](http://www.la-acm.org/Archives/laacm0512-Article%2002%20The%205%20Orders%20of%20Ignorance%20OCT%202000.pdf)
 
