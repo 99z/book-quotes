@@ -31,6 +31,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _The Art of Computer Programming_ by Donald Knuth
 * _Code Complete: A Practical Handbook of Software Construction, Second Edition_ by Steve McConnell
 * _Etudes for Programmers_ by Charles Weatherell
+* _The Go Programming Language_ by Alan Donovan & Brian Kernighan
 
 ### Software design
 
@@ -52,6 +53,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 ### Mathematics / algorithms
 
 * _The Algorithm Design Manual_ by Steven Skiena
+* _The Tao of Physics: An Exploration of the Parallels Between Modern Physics and Eastern Mysticism_ by Fritjof Capra
 
 #### Math curriculum, in order
 
@@ -70,10 +72,19 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Zen Mind, Beginner's Mind_ by Shunryu Suzuki
 * _Meditations_ by Marcus Aurelius
 
+### Consciousness
+
+* _Gödel, Escher, Bach: An Eternal Golden Braid_ by Douglas Hofstadter
+* _I Am a Strange Loop_ by Douglas Hofstadter
+* _The Society of Mind_ by Marvin Minsky
+* _The Mind's I: Fantasies and Reflections on Self & Soul_ by Douglas Hofstadter & Daniel Dennett
+* _The Systems View of Life: A Unifying Vision_ by Fritjof Capra & Pier Luigi Luisi
+
 ### Self-improvement
 * _Catching the Big Fish_ by David Lynch
 * _The Psychology of Computer Programming_ by Gerald Weinberg
 * _King, Warrior, Magician, Lover_ by Robert Moore & Douglas Gillette
+* _Soft Skills: The software developer's life manual_ by John Sonmez
 
 ### History
 
