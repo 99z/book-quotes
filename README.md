@@ -53,10 +53,45 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 
 * _The Algorithm Design Manual_ by Steven Skiena
 
+#### Math curriculum, in order
+
+1. _Number: The Language of Science_ by Tobias Dantzig & Joseph Mazur
+2. _Innumeracy: Mathematical Illiteracy and Its Consequences_ by John Allen Paulos
+3. _How Not to Be Wrong: The Power of Mathematical Thinking_ by Jordan Ellenberg
+4. _Zero: The Biography of a Dangerous Idea_ by Charles Seife
+5. _Calculus Made Easy_ 1910 edition by Silvanus Thompson
+6. _A Tour of the Calculus_ by David Berlinski
+7. _Elements of Euclid_ by Oliver Byrne
+8. _Measurement_ by Paul Lockhart
+
+
 ### Philosophy
 
 * _Zen Mind, Beginner's Mind_ by Shunryu Suzuki
+* _Meditations_ by Marcus Aurelius
+
+### Self-improvement
+* _Catching the Big Fish_ by David Lynch
 * _The Psychology of Computer Programming_ by Gerald Weinberg
+* _King, Warrior, Magician, Lover_ by Robert Moore & Douglas Gillette
+
+### History
+
+* _The Decline and Fall of the Roman Empire_ by Edward Gibbon
+
+### Fiction
+
+* _Shadow of the Torturer_ by Gene Wolfe
+* _Claw of the Conciliator_ by Gene Wolfe
+* _Sword of the Lictor_ by Gene Wolfe
+* _The Citadel of the Autarch_ by Gene Wolfe
+* _Mona Lisa Overdrive_ by William Gibson
+* _Neuromancer_ by William Gibson
+* _Count Zero_ by William Gibson
+* _Idoru_ by William Gibson
+* _Coin Locker Babies_ Ryu Murakami
+* _Lucifer's Hammer_ by Larry Niven
+* _Past Master_ by R. A. Lafferty
 
 ### RFCs
 
