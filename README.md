@@ -43,6 +43,8 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 
 ### Craftsmanship
 
+* ~~_Apprenticeship Patterns_ by Dave Hoover & Adewale Oshineye~~
+    * Completed Aug. 27 2017
 * _The Timeless Way of Building_ by Christopher Alexander
 * _Fifteen Craftsmen on Their Crafts_ by John Farleigh
 * _Mastery: The Keys to Success and Long-Term Fulfillment_ by George Leonard
@@ -112,4 +114,4 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 ### Papers
 
 * [The Five Orders of Ignorance](http://www.la-acm.org/Archives/laacm0512-Article%2002%20The%205%20Orders%20of%20Ignorance%20OCT%202000.pdf)
-
+* [Reflections on Trusting Trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf) by Ken Thompson
