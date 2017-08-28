@@ -30,6 +30,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Refactoring: Improving the Design of Existing Code_ by Fowler, Beck, Brant, Opdyke, Roberts
 * _The Art of Computer Programming_ by Donald Knuth
 * _Code Complete: A Practical Handbook of Software Construction, Second Edition_ by Steve McConnell
+* _Etudes for Programmers_ by Charles Weatherell
 
 ### Software design
 
@@ -37,6 +38,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _The Peopleware Papers: Notes on the Human Side of Software_ by Larry Constantine
 * _Hackers & Painters: Big Ideas from the Computer Age_ by Paul Graham
 * _Pragmatic Thinking and Learning: Refactor Your Wetware_ by Andy Hunt
+* _The Pragmatic Programmer: From Journeyman to Master_ by Andrew Hunt & David Thomas
 
 ### Craftsmanship
 
@@ -44,6 +46,17 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Fifteen Craftsmen on Their Crafts_ by John Farleigh
 * _Mastery: The Keys to Success and Long-Term Fulfillment_ by George Leonard
 * _Software Craftsmanship: The New Imperative_ by Pete McBreen
+* _The Craftsman_ by Richard Sennet
+
+
+### Mathematics / algorithms
+
+* _The Algorithm Design Manual_ by Steven Skiena
+
+### Philosophy
+
+* _Zen Mind, Beginner's Mind_ by Shunryu Suzuki
+* _The Psychology of Computer Programming_ by Gerald Weinberg
 
 ### RFCs
 
