@@ -20,3 +20,37 @@ The title of a `.quote` file is what the quote is about to me. Since I haven't b
 I intend to include chapters subdirectories from now on. Unfortunately, like page numbers, I haven't been keeping track of chapters, so some books will be missing them.
 
 Any notes I have appear in the `.quote` file below the quote itself, on a new line.
+
+## Reading list
+
+### Programming
+
+* _Programming Pearls_ by Jon Bentley
+* _More Programming Pearls_ by Jon Bentley
+* _Refactoring: Improving the Design of Existing Code_ by Fowler, Beck, Brant, Opdyke, Roberts
+* _The Art of Computer Programming_ by Donald Knuth
+* _Code Complete: A Practical Handbook of Software Construction, Second Edition_ by Steve McConnell
+
+### Software design
+
+* _The Mythical Man Month: Essays on Software Engineering_ by Frederick P. Brooks
+* _The Peopleware Papers: Notes on the Human Side of Software_ by Larry Constantine
+* _Hackers & Painters: Big Ideas from the Computer Age_ by Paul Graham
+* _Pragmatic Thinking and Learning: Refactor Your Wetware_ by Andy Hunt
+
+### Craftsmanship
+
+* _The Timeless Way of Building_ by Christopher Alexander
+* _Fifteen Craftsmen on Their Crafts_ by John Farleigh
+* _Mastery: The Keys to Success and Long-Term Fulfillment_ by George Leonard
+* _Software Craftsmanship: The New Imperative_ by Pete McBreen
+
+### RFCs
+
+* ![RFC 707](https://tools.ietf.org/html/rfc707): A High-Level Framework for Network-Based Resource Sharing
+* ![RFC 2616](https://tools.ietf.org/html/rfc2616): Hypertext Transfer Protocol -- HTTP/1.1
+
+### Papers
+
+* ![The Five Orders of Ignorance](http://www.la-acm.org/Archives/laacm0512-Article%2002%20The%205%20Orders%20of%20Ignorance%20OCT%202000.pdf)
+
