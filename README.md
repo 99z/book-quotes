@@ -51,6 +51,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Mastery: The Keys to Success and Long-Term Fulfillment_ by George Leonard
 * _Software Craftsmanship: The New Imperative_ by Pete McBreen
 * _The Craftsman_ by Richard Sennet
+* _Coders at Work: Reflections on the Craft of Programming_ by Peter Seibel
 
 
 ### Mathematics / algorithms
