@@ -33,6 +33,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Etudes for Programmers_ by Charles Weatherell
 * _The Go Programming Language_ by Alan Donovan & Brian Kernighan
 * _[Starting FORTH](https://www.forth.com/starting-forth/)_ by Leo Brodie
+* _Eloquent JavaScript_ by Marijn Haverbeke
 
 ### Software design
 
