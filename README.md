@@ -34,6 +34,8 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _The Go Programming Language_ by Alan Donovan & Brian Kernighan
 * _[Starting FORTH](https://www.forth.com/starting-forth/)_ by Leo Brodie
 * _Eloquent JavaScript_ by Marijn Haverbeke
+* _Operating Systems Design and Implementation_ by Andrew Tanenbaum
+* _Lions' Commentary on UNIX 6th Edition, with Source Code_ by John Lions
 
 ### Software design
 
