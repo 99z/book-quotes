@@ -37,6 +37,10 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Operating Systems Design and Implementation_ by Andrew Tanenbaum
 * _Lions' Commentary on UNIX 6th Edition, with Source Code_ by John Lions
 
+### UNIX
+
+* _Absolute OpenBSD_ by Michael W. Lucas
+
 ### Software design
 
 * _The Mythical Man Month: Essays on Software Engineering_ by Frederick P. Brooks
@@ -55,7 +59,6 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Software Craftsmanship: The New Imperative_ by Pete McBreen
 * _The Craftsman_ by Richard Sennet
 * _Coders at Work: Reflections on the Craft of Programming_ by Peter Seibel
-
 
 ### Mathematics / algorithms
 
