@@ -48,6 +48,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Hackers & Painters: Big Ideas from the Computer Age_ by Paul Graham
 * _Pragmatic Thinking and Learning: Refactor Your Wetware_ by Andy Hunt
 * _The Pragmatic Programmer: From Journeyman to Master_ by Andrew Hunt & David Thomas
+* _The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary_ by Eric S. Raymond
 
 ### Craftsmanship
 
