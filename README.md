@@ -37,9 +37,10 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Operating Systems Design and Implementation_ by Andrew Tanenbaum
 * _Lions' Commentary on UNIX 6th Edition, with Source Code_ by John Lions
 
-### UNIX
+### Tools
 
 * _Absolute OpenBSD_ by Michael W. Lucas
+* _Mastering Emacs_ by Mickey Petersen
 
 ### Software design
 
