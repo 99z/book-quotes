@@ -36,6 +36,9 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Eloquent JavaScript_ by Marijn Haverbeke
 * _Operating Systems Design and Implementation_ by Andrew Tanenbaum
 * _Lions' Commentary on UNIX 6th Edition, with Source Code_ by John Lions
+* _PoC || GTFO_ by Manul Laphroaig
+* _xchg rax,rax_ by xorpd
+* _Game Engine Black Book: Wolfenstein 3D_ by Fabien Sanglard
 
 ### Tools
 
@@ -125,3 +128,4 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 
 * [The Five Orders of Ignorance](http://www.la-acm.org/Archives/laacm0512-Article%2002%20The%205%20Orders%20of%20Ignorance%20OCT%202000.pdf)
 * [Reflections on Trusting Trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf) by Ken Thompson
+* Various from [_PoC || GTFO_](https://www.alchemistowl.org/pocorgtfo/)
