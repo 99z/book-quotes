@@ -38,6 +38,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Lions' Commentary on UNIX 6th Edition, with Source Code_ by John Lions
 * _PoC || GTFO_ by Manul Laphroaig
 * _xchg rax,rax_ by xorpd
+* _Graphics Programming Black Book_ by Michael Abrash
 * _Game Engine Black Book: Wolfenstein 3D_ by Fabien Sanglard
 * _Writing An Interpreter In Go_ by Thorsten Ball
 
