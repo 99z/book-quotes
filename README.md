@@ -42,6 +42,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Game Engine Black Book: Wolfenstein 3D_ by Fabien Sanglard
 * _Writing An Interpreter In Go_ by Thorsten Ball
 * _Build Your Own Lisp_ by Daniel Holden
+* _The little book about OS development_ by Erik Helin & Adam Renberg
 
 ### Tools
 
