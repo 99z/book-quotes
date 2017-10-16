@@ -58,6 +58,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Pragmatic Thinking and Learning: Refactor Your Wetware_ by Andy Hunt
 * _The Pragmatic Programmer: From Journeyman to Master_ by Andrew Hunt & David Thomas
 * _The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary_ by Eric S. Raymond
+* _Joel on Software_ by Joel Spolsky
 
 ### Craftsmanship
 
