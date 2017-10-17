@@ -49,6 +49,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 
 * _Absolute OpenBSD_ by Michael W. Lucas
 * _Mastering Emacs_ by Mickey Petersen
+* _sed & awk_ by Dale Dougherty
 
 ### Software design
 
@@ -137,6 +138,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * Various from [_PoC || GTFO_](https://www.alchemistowl.org/pocorgtfo/)
 * [Communicating Sequential Processes](http://www.cs.virginia.edu/crab/hoare1978csp.pdf) by C.A.R. Hoare
 
-### Courses
+### Courses & online tutorials
 
 * [Assembly Language Adventures](https://www.udemy.com/x86-asm-foundations/)
+* [OpenGL Tutorial](http://www.opengl-tutorial.org)
