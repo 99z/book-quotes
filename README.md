@@ -60,6 +60,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _The Pragmatic Programmer: From Journeyman to Master_ by Andrew Hunt & David Thomas
 * _The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary_ by Eric S. Raymond
 * _Joel on Software_ by Joel Spolsky
+* _Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems_ by Martin Kleppman
 
 ### Craftsmanship
 
