@@ -61,6 +61,8 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary_ by Eric S. Raymond
 * _Joel on Software_ by Joel Spolsky
 * _Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems_ by Martin Kleppman
+* _Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability_ by Steve Krug
+* _The Design of Everyday Things_ by Don Norman
 
 ### Craftsmanship
 
