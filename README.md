@@ -50,6 +50,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Absolute OpenBSD_ by Michael W. Lucas
 * _Mastering Emacs_ by Mickey Petersen
 * _sed & awk_ by Dale Dougherty
+* _Unix Text Processing_ by Dale Dougherty and Tim O'Reilly
 
 ### Software design
 
