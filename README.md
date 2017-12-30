@@ -44,6 +44,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Build Your Own Lisp_ by Daniel Holden
 * _The little book about OS development_ by Erik Helin & Adam Renberg
 * _Game Programming Patterns_ by Robert Nystrom
+* _Category Theory for Programmers_ by Bartosz Milewski
 
 ### Tools
 
