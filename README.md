@@ -48,6 +48,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 
 ### Tools
 
+* _Introduction to Operating Systems Abstractions Using Plan 9 from Bell Labs_ by Francisco J. Ballesteros
 * _Absolute OpenBSD_ by Michael W. Lucas
 * _Mastering Emacs_ by Mickey Petersen
 * _sed & awk_ by Dale Dougherty
