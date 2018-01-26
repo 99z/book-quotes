@@ -133,6 +133,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Coin Locker Babies_ Ryu Murakami
 * _Lucifer's Hammer_ by Larry Niven
 * _Past Master_ by R. A. Lafferty
+* _Eifelheim_ by Michael Flynn
 
 ### RFCs
 
@@ -145,6 +146,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * [Reflections on Trusting Trust](https://www.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf) by Ken Thompson
 * Various from [_PoC || GTFO_](https://www.alchemistowl.org/pocorgtfo/)
 * [Communicating Sequential Processes](http://www.cs.virginia.edu/crab/hoare1978csp.pdf) by C.A.R. Hoare
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) by Satoshi Nakamoto
 
 ### Courses & online tutorials
 
