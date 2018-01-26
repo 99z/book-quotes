@@ -45,6 +45,8 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _The little book about OS development_ by Erik Helin & Adam Renberg
 * _Game Programming Patterns_ by Robert Nystrom
 * _Category Theory for Programmers_ by Bartosz Milewski
+* _Structure and Interpretation of Computer Programs_ by Harold Abelson, Gerald Jay Sussman, Julie Sussman
+* _Programming Languages: Application and Interpretation_ by Shriram Krishnamurthi
 
 ### Tools
 
