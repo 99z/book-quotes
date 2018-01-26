@@ -1,0 +1,1 @@
+>For this place could be no ordinary city. It must have formed the primary nucleus and centre of some archaic and unbelievable chapter of earth's history whose outward ramifications, recalled only dimly in the most obscure and distorted myths, had vanished utterly amidst the chaos of terrene convulsions long before any human race we know had shambled out of apedom.

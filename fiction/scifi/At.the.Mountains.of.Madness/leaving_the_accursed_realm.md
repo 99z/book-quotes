@@ -1,0 +1,1 @@
+>Less than a fortnight later we left the last hint of the polar land behind us, and thanked heaven that we were clear of a haunted, accursed realm where life and death, space and time, have made black and blasphemous alliances in the unknown epochs since matter first writhed and swam on the planet's scare-cooled crust.

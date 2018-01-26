@@ -1,0 +1,1 @@
+>What we heard was not the fabulous note of any buried blasphemy of elder earth from whose supernal toughness an age-denied polar sun had evoked a monstrous response.

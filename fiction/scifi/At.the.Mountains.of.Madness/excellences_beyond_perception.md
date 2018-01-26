@@ -1,0 +1,1 @@
+>We felt, too, that besides these recognizable excellences there were others lurking beyond the reach of our perceptions. Certain touches here and there gave vague hints of latent symbols and stimuli which another mental and emotional background, and a fuller or different sensory equipment, might have made of profound and poignant significance to us.
