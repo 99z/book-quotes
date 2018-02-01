@@ -154,6 +154,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * Various from [_PoC || GTFO_](https://www.alchemistowl.org/pocorgtfo/)
 * [Communicating Sequential Processes](http://www.cs.virginia.edu/crab/hoare1978csp.pdf) by C.A.R. Hoare
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) by Satoshi Nakamoto
+* [A Descent into Limbo](http://www.vitanuova.com/inferno/papers/descent.html) by Brian Kernighan
 
 ### Courses & online tutorials
 
