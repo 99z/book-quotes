@@ -160,3 +160,4 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 
 * [Assembly Language Adventures](https://www.udemy.com/x86-asm-foundations/)
 * [OpenGL Tutorial](http://www.opengl-tutorial.org)
+* [Pete's Inferno OS guide](http://debu.gs/entries/inferno-part-0-namespaces)
