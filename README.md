@@ -96,11 +96,18 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 7. _Elements of Euclid_ by Oliver Byrne
 8. _Measurement_ by Paul Lockhart
 
-
 ### Philosophy
 
+#### Zen
 * _Zen Mind, Beginner's Mind_ by Shunryu Suzuki
+
+#### Stoicism
 * _Meditations_ by Marcus Aurelius
+* _Enchiridion_ by Epictetus
+* _Discourses of Epictetus_ by Epictetus
+* _Letters from a Stoic_ by Seneca the Younger
+* _On the Shortness of Life_ by Seneca the Younger
+* _De Officiis_ by Marcus Tullius Cicero
 
 ### Consciousness
 
