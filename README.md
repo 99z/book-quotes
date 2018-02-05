@@ -85,6 +85,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _The Algorithm Design Manual_ by Steven Skiena
 * _The Tao of Physics: An Exploration of the Parallels Between Modern Physics and Eastern Mysticism_ by Fritjof Capra
 * _A Discipline of Programming_ by Edsger Dijkstra
+* _Selected Writings on Computing: A Personal Perspective_ by Edsger Dijkstra
 
 #### Math curriculum, in order
 
