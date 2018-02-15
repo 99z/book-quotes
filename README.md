@@ -109,6 +109,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Discourses of Epictetus_ by Epictetus
 * _Letters from a Stoic_ by Seneca the Younger
 * _On the Shortness of Life_ by Seneca the Younger
+* _Of Anger_ by Seneca the Younger
 * _De Officiis_ by Marcus Tullius Cicero
 * _Ego is the Enemy_ by Ryan Holiday
 * _The Obstacle is the Way_ by Ryan Holiday
