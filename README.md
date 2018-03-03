@@ -100,6 +100,15 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 
 ### Philosophy
 
+#### Introductory texts
+* _Plato: Five Dialogues_ by Plato
+* _The Problems of Philosophy_ by Bertrand Russell
+* _The Pig That Wants to Be Eaten: 100 Experiments for the Armchair Philosopher_ by Julian Baggini
+* _Think: A Compelling Introduction to Philosophy_ by Simon Blackburn
+* _Utilitarianism_ by John Stuart Mill
+* _Groundwork of the Metaphysic of Morals_ by Immanuel Kant
+* _Nicomachean Ethics_ by Aristotle
+
 #### Zen
 * _Zen Mind, Beginner's Mind_ by Shunryu Suzuki
 
