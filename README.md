@@ -95,8 +95,9 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 4. _Zero: The Biography of a Dangerous Idea_ by Charles Seife
 5. _Calculus Made Easy_ 1910 edition by Silvanus Thompson
 6. _A Tour of the Calculus_ by David Berlinski
-7. _Elements of Euclid_ by Oliver Byrne
-8. _Measurement_ by Paul Lockhart
+7. _Calculus_ by Michael Spivak
+8. _Elements of Euclid_ by Oliver Byrne
+9. _Measurement_ by Paul Lockhart
 
 ### Philosophy
 
