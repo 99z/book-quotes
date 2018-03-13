@@ -47,6 +47,7 @@ Any notes I have appear in the `.quote` file below the quote itself, on a new li
 * _Category Theory for Programmers_ by Bartosz Milewski
 * _Structure and Interpretation of Computer Programs_ by Harold Abelson, Gerald Jay Sussman, Julie Sussman
 * _Programming Languages: Application and Interpretation_ by Shriram Krishnamurthi
+* _Compilers: Principles, Techniques, and Tools_ by Alfred V. Aho, Monica S. Lam, Ravi Sethi, Jeffrey D. Ullman
 
 ### Tools
 
